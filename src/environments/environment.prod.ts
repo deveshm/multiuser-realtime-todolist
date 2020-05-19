@@ -1,9 +1,9 @@
 export const environment = {
   production: true,
   jexia: {
-    projectID: 'c2d98878-b188-4756-8579-6cbe74013ab0',
-    projectURL: 'https://c2d98878-b188-4756-8579-6cbe74013ab0.app.jexia.com',
-    wsURL: 'wss://c2d98878-b188-4756-8579-6cbe74013ab0.app.jexia.com/rtc',
+    projectID: '84d7dc56-2c39-4a5a-a646-f6c146b91ba5',
+    projectURL: 'https://84d7dc56-2c39-4a5a-a646-f6c146b91ba5.app.jexia.com',
+    wsURL: 'wss://84d7dc56-2c39-4a5a-a646-f6c146b91ba5.app.jexia.com/rtc',
     key: `${process.env.API_KEY}`,
     secret: `${process.env.API_SECRET}`
   }
